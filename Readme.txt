@@ -42,5 +42,6 @@ models/: Contém as classes que representam os modelos de dados (Funcionário, R
 reports/: Contém as classes responsáveis pela geração de relatórios.
 main.py: O ponto de entrada do sistema, onde o controlador é instanciado e executado.
 
+Grupo: Rafael Caires, Julia Negri, Maria Isabel
 
-
+ Todos os envolvidos participaram do trabalho do inicio ao fim, desde os códigos a tabela tudo foi feito e entrou em acordo e bom senso do grupo!
