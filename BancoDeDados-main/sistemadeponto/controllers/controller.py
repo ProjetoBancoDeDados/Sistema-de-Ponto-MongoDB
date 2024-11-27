@@ -22,6 +22,9 @@ class SistemaController:
             print("3. Remover Registros")
             print("4. Atualizar Registros")
             print("5. Sair")
+            print("Sistema de Controle de Ponto")
+            print("Desenvolvido por: Julia Negri, Maria Isabel, Rafael Caires")
+            print("Professor: Howard Roatti")
             
             opcao = input("\nEscolha uma opção: ")
 
