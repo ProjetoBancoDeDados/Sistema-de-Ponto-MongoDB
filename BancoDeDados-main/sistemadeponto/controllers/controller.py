@@ -378,10 +378,9 @@ class SistemaController:
             input("\nPressione Enter para continuar...")
 
     def limpar_tela(self):
-        """Método para limpar a tela do terminal"""
+        
         import os
         os.system('cls' if os.name == 'nt' else 'clear')
 
     def _formatar_mensagem_erro(self, erro):
-        """Método auxiliar para formatar mensagens de erro de forma amigável"""
         return str(erro)
